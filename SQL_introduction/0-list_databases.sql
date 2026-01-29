@@ -1,2 +1,2 @@
 --Show all db in mysql
-SHOW DATABASES
+SHOW DATABASES;
