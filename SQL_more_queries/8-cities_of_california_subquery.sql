@@ -1,4 +1,4 @@
---nig
+-- nig
 
 SELECT id, name
 FROM cities
